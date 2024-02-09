@@ -1,0 +1,7 @@
+def test():
+    for i in range(0,5):
+        for i in range(0,10):
+            x=i
+        print(x)
+
+test()
